@@ -118,7 +118,7 @@ while page != 1112:
             
             rows=[data[i:i +5]for i in range(0,len(data),5)]
 
-            with open("remaining2.csv","w",newline="") as csvfile:
+            with open("R&D_jobs_data.csv","w",newline="") as csvfile:
                 csvwriter=csv.writer(csvfile)
                 csvwriter.writerow(row_head)
                 csvwriter.writerows(rows)
