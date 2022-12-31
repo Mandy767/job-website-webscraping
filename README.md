@@ -4,10 +4,8 @@ following are the commands:
 
 1.pip install packaging
 
-2.pip install requests
+2.pip install selenium
 
-3.pip install selenium
-
-4.pip install beautifulsoup4
+3.pip install beautifulsoup4
 
 The selenium code at start will automatically install chrome webdriver so no need to install it manually.
