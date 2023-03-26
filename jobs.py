@@ -1,6 +1,6 @@
 import bs4
 import time
-
+#mandar
 # import pandas as pd
 import csv
 
